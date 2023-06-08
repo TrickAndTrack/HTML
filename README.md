@@ -367,6 +367,11 @@ input.
 ### meta tag
 
 - META tags basically provide more informtion to browser about our webpage and much like the entire header really but the meta tags provide meta data.
+- Character encoding: Character encoding refers to the way characters are represented and stored in a computer's memory.
+- <meta> tag: The <meta> tag is an HTML tag used to provide metadata about the HTML document. It is placed in the <head> section of the HTML document, and its purpose is to convey information about the document to the browser or search engines.
+- charset attribute: The charset attribute is used within the <meta> tag to specify the character encoding of the HTML document. 
+
+- UTF-8 (Unicode Transformation Format 8-bit) is a widely used character encoding that can represent almost all characters from various writing systems in the world. It is backward compatible with ASCII (American Standard Code for Information Interchange), which means that the first 128 ASCII characters are represented the same way in UTF-8.
 
 ```
 <!DOCTYPE html>
@@ -375,11 +380,7 @@ input.
    <meta charset="UTF-8">
    </head>
 ```
-- Character encoding: Character encoding refers to the way characters are represented and stored in a computer's memory.
-- <meta> tag: The <meta> tag is an HTML tag used to provide metadata about the HTML document. It is placed in the <head> section of the HTML document, and its purpose is to convey information about the document to the browser or search engines.
-- charset attribute: The charset attribute is used within the <meta> tag to specify the character encoding of the HTML document. 
 
-- UTF-8 (Unicode Transformation Format 8-bit) is a widely used character encoding that can represent almost all characters from various writing systems in the world. It is backward compatible with ASCII (American Standard Code for Information Interchange), which means that the first 128 ASCII characters are represented the same way in UTF-8
 ## Question
 
 #### Question 1 What is a div element is ?

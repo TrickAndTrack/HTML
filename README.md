@@ -232,6 +232,8 @@ table, th, td {
 </main>
 
 ```
+   ![image](https://github.com/TrickAndTrack/HTML/assets/73180409/9444ab6d-e1c8-4028-852c-8e22f0eb4c3c)
+
 ## Question
 
 #### Question 1 What is a div element is ?
